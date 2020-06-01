@@ -1,6 +1,6 @@
 terraform {
   backend "azurerm" {
-    resource_group_name  = "DAL"
+    resource_group_name  = "SAURABH"
 }
 }
 
